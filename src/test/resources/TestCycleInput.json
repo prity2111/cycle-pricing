@@ -1,0 +1,26 @@
+[
+  {
+    "id": 999,
+    "wheel": {
+      "spokes": 24,
+      "rim": "tubular",
+      "tube": false,
+      "tyre": "Tubeless"
+    },
+    "frame": {
+      "material": "Steel"
+    },
+    "chainAssembly": {
+      "material": "Plain-Carbon"
+    },
+    "handleBarWithBrakes": {
+      "material": "Aluminium-Alloy",
+      "handleBarSize": 32.0
+    },
+    "seatings": {
+      "material": "plastic",
+      "style": "saddle",
+      "seatCover": true
+    }
+  }
+]

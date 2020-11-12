@@ -3,7 +3,6 @@ package com.social91.cycle;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import org.jetbrains.annotations.VisibleForTesting;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -18,7 +17,7 @@ import java.util.concurrent.TimeUnit;
  * This is the entry point of the project having main()
  */
 public class UserInputInterfaceForCycle {
-    @VisibleForTesting
+
     public static void main(String[] args) throws IOException {
 
         PriceUpdaterService.updatePriceFromFile(UserInputInterfaceForCycle.class.getClassLoader().getResourceAsStream("CycleComponentsPrice.properties"));
