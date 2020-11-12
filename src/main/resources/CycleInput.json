@@ -1,0 +1,242 @@
+[
+  {
+    "id": 0,
+    "wheel": {
+      "spokes": 20,
+      "rim": "tubular",
+      "tube": false,
+      "tyre": "Tubeless"
+    },
+    "frame": {
+      "material": "Steel"
+    },
+    "chainAssembly": {
+      "material": "Plain-Carbon"
+    },
+    "handleBarWithBrakes": {
+      "material": "Aluminium-Alloy",
+      "handleBarSize": 22.2
+    },
+    "seatings": {
+      "material": "plastic",
+      "style": "saddle",
+      "seatCover": true
+    }
+  },
+  {
+    "id": 1,
+    "wheel": {
+      "spokes": 20,
+      "rim": "tubular",
+      "tube": false,
+      "tyre": "Tubeless"
+    },
+    "frame": {
+      "material": "Steel"
+    },
+    "chainAssembly": {
+      "material": "Nikel-Plated"
+    },
+    "handleBarWithBrakes": {
+      "material": "Aluminium-Alloy",
+      "handleBarSize": 22.2
+    },
+    "seatings": {
+      "material": "leather",
+      "style": "saddle",
+      "seatCover": false
+    }
+  },
+  {
+    "id": 2,
+    "wheel": {
+      "spokes": 20,
+      "rim": "tubular",
+      "tube": false,
+      "tyre": "Tubeless"
+    },
+    "frame": {
+      "material": "Steel"
+    },
+    "chainAssembly": {
+      "material": "Nikel-Plated"
+    },
+    "handleBarWithBrakes": {
+      "material": "Aluminium-Alloy",
+      "handleBarSize": 22.2
+    },
+    "seatings": {
+      "material": "plastic",
+      "style": "saddle",
+      "seatCover": false
+    }
+  },
+  {
+    "id": 3,
+    "wheel": {
+      "spokes": 20,
+      "rim": "tubular",
+      "tube": false,
+      "tyre": "Tubeless"
+    },
+    "frame": {
+      "material": "Steel"
+    },
+    "chainAssembly": {
+      "material": "Nikel-Plated"
+    },
+    "handleBarWithBrakes": {
+      "material": "Aluminium-Alloy",
+      "handleBarSize": 22.2
+    },
+    "seatings": {
+      "material": "plastic",
+      "style": "saddle",
+      "seatCover": false
+    }
+  },
+  {
+    "id": 4,
+    "wheel": {
+      "spokes": 25,
+      "rim": "tubular",
+      "tube": true,
+      "tyre": "Tubeless"
+    },
+    "frame": {
+      "material": "Iron"
+    },
+    "chainAssembly": {
+      "material": "Plain-Carbon"
+    },
+    "handleBarWithBrakes": {
+      "material": "Aluminium-Alloy",
+      "handleBarSize": 15.5
+    },
+    "seatings": {
+      "material": "plastic",
+      "style": "custom",
+      "seatCover": false
+    }
+  },
+  {
+    "id": 5,
+    "wheel": {
+      "spokes": 25,
+      "rim": "clincher",
+      "tube": false,
+      "tyre": "Tubeless"
+    },
+    "frame": {
+      "material": "Steel"
+    },
+    "chainAssembly": {
+      "material": "Plain-Carbon"
+    },
+    "handleBarWithBrakes": {
+      "material": "Iron",
+      "handleBarSize": 15.5
+    },
+    "seatings": {
+      "material": "leather",
+      "style": "custom",
+      "seatCover": false
+    }
+  },
+  {
+    "id": 6,
+    "wheel": {
+      "spokes": 25,
+      "rim": "tubular",
+      "tube": true,
+      "tyre": "Tubeless"
+    },
+    "frame": {
+      "material": "Iron"
+    },
+    "chainAssembly": {
+      "material": "Plain-Carbon"
+    },
+    "handleBarWithBrakes": {
+      "material": "Aluminium-Alloy",
+      "handleBarSize": 15.5
+    },
+    "seatings": {
+      "material": "plastic",
+      "style": "custom",
+      "seatCover": false
+    }
+  },
+  {
+    "id": 7,
+    "wheel": {
+      "spokes": 25,
+      "rim": "clincher",
+      "tube": false,
+      "tyre": "Tubeless"
+    },
+    "frame": {
+      "material": "Iron"
+    },
+    "chainAssembly": {
+      "material": "Plain-Carbon"
+    },
+    "handleBarWithBrakes": {
+      "material": "Steel",
+      "handleBarSize": 15.5
+    },
+    "seatings": {
+      "material": "plastic",
+      "style": "saddle",
+      "seatCover": false
+    }
+  },
+  {
+    "id": 8,
+    "wheel": {
+      "spokes": 15,
+      "rim": "clincher",
+      "tube": false,
+      "tyre": "Tubeless"
+    },
+    "frame": {
+      "material": "Iron"
+    },
+    "chainAssembly": {
+      "material": "Plain-Carbon"
+    },
+    "handleBarWithBrakes": {
+      "material": "Aluminium-Alloy",
+      "handleBarSize": 15.5
+    },
+    "seatings": {
+      "material": "plastic",
+      "style": "saddle",
+      "seatCover": true
+    }
+  },
+  {
+    "id": 9,
+    "wheel": {
+      "spokes": 20,
+      "rim": "tubular",
+      "tube": true,
+      "tyre": "Tube"
+    },
+    "frame": {
+      "material": "Steel"
+    },
+    "chainAssembly": {
+      "material": "Plain-Carbon"
+    },
+    "handleBarWithBrakes": {
+      "material": "Steel",
+      "handleBarSize": 25
+    },
+    "seatings": {
+      "material": "plastic",
+      "style": "saddle",
+      "seatCover": true
+    }
+  }
+]
